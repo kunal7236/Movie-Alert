@@ -125,18 +125,3 @@ When booking opens you get one Telegram message. State is saved in `state.json`
 | `.github/workflows/booking-watch.yml` | Scheduled always-on runner |
 | `requirements.txt` | Python deps (`requests`) |
 | `state.json` | Auto-managed; tracks last-seen availability |
-
-Run python poller.py
-  python poller.py
-  shell: /usr/bin/bash -e {0}
-  env:
-    pythonLocation: /opt/hostedtoolcache/Python/3.12.13/x64
-    PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib/pkgconfig
-    Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
-    Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
-    Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.13/x64
-    LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.13/x64/lib
-    TELEGRAM_BOT_TOKEN: ***
-    TELEGRAM_CHAT_ID: ***
-    HEADERS_JSON: 
-[The Odyssey (IMAX 2D) @ 20260720] fetch failed: 403 Client Error: Forbidden for url: https://in.bookmyshow.com/movies/chennai/the-odyssey/buytickets/ET00480917/20260720
