@@ -2,7 +2,8 @@
   "detector": "venue_date",
   "movie": "The Odyssey",
   "requested_date": "20260729",
-  "venue_code": "PVWW",
+  "venue_code": "CFBS",
+   "venue_label": "Cinepolis: Nexus Shantiniketan, Bengaluru",
   "url_template": "https://in.bookmyshow.com/movies/bengaluru/the-odyssey/buytickets/ET00480917/20260729",
   "min_references": 10
 }
