@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "The Odyssey (IMAX 2D)",
-  "requested_date": "20260722",
-  "venue_code": "INPR",
-  "venue_label": "INOX: LUXE Phoenix Market City, Velachery",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/the-odyssey/buytickets/ET00480917/{date}",
+  "movie": "The Odyssey - (English)",
+  "requested_date": "20260724",
+  "venue_code": "CFBS",
+  "venue_label": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+  "url_template": "https://in.bookmyshow.com/movies/bengaluru/the-odyssey/buytickets/ET00480917/20260724",
   "min_references": 10
 }
