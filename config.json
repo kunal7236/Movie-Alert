@@ -2,7 +2,7 @@
   "detector": "venue_date",
   "movie": "The Odyssey",
   "requested_date": "20260729",
-  "venue_code": ["CFBS","PVWW"],
+  "venue_code": "PVWW",
   "url_template": "https://in.bookmyshow.com/movies/bengaluru/the-odyssey/buytickets/ET00480917/20260729",
   "min_references": 10
 }
