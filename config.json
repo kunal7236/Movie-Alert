@@ -1,6 +1,6 @@
 {
   "detector": "venue_date",
-  "movie": "Mirzapur: The Movie",
+  "movie": "Mirzapur The Movie",
   "requested_date": "20260904",
   "venue_code": ["CFBS","PVWW","INBG"],
   "url_template": "https://in.bookmyshow.com/movies/bengaluru/mirzapur-the-movie/buytickets/ET00417686/20260904",
